@@ -1,0 +1,14 @@
+package Server;
+
+
+
+public class Server {
+
+    public static void main(String[] args) {
+
+        MyServer s = new MyServer();
+    }
+
+
+
+}
